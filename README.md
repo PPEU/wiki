@@ -1,2 +1,1 @@
-# wiki
-Our wiki!
+* [Our wiki](https://github.com/PPEU/wiki/wiki)
