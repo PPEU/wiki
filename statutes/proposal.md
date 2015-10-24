@@ -33,7 +33,9 @@ agree to create an international non-profit association according to Luxembourgi
 ### Article 3 – Language
 (1) In the event of divergence or of doubt between these statutes in the original version in English and any version in another language, the English language version prevails.
 
-(2) English shall be the working language of the Association. Any initiatives and proposals must be submitted in English. Aims and Goals
+(2) English shall be the working language of the Association. Any initiatives and proposals must be submitted in English. 
+
+## Aims and Goals
 
 ### Article 4 – Principles
 (1) The Association shall pursue international aims in respect of the principles on which the European Union is based, namely principles of freedom, equality, solidarity, democracy, respect of Human Rights and Fundamental Freedoms, and respect for the Rule of Law.
