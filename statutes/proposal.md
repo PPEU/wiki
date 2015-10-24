@@ -369,7 +369,7 @@ Change of Statutes and the Pirate Manifesto and Decision-making-Process
 
 (3) Any decision amending the Statutes shall be submitted to the  Company Registrar (RCSL) and published according to the law.
 
-Art. 27 – Change of the Pirate Manifesto
+## Art. 27 – Change of the Pirate Manifesto
 (1) The Pirate Manifesto combines the identified common policies of the member parties in a document representing the common policies of the Association and is an integral part of these Statutes.
 
 (2) Any changes to the Pirate Manifesto will be following the same procedure as those to the Statutes.
@@ -394,7 +394,7 @@ Art. 27 – Change of the Pirate Manifesto
 * b) the methods and procedures for the liquidation of the Association and
 * c) the destination to be given to the net assets of the Association. The net assets of the Association will have to be allocated to a non-profit purpose. They may be divided among the member parties according to their financial contributions.
 
-(7) All such decisions have to be duly filed and published according to the law.
+(8) All such decisions have to be duly filed and published according to the law.
 
 ## ANNEXES
 
