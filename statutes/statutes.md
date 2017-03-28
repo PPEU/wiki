@@ -470,4 +470,4 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 
 [[ppeu:members#list_of_members|Members]]
 ### Annex C - Pirate Manifesto
-The [[statutes:manifesto|PPEU Manifesto]]
+[The PPEU Manifesto](manifesto.md)
