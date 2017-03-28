@@ -30,6 +30,7 @@ agree to create an international non-profit association according to Luxembourgi
 ### General Provisions
 
 ##### Article 1 – Name
+
 (1) The official name of the association shall be “European Pirate Party” and „European Pirates“, abbreviated “PPEU” or „PIRATES“. Both the full and the abbreviated names may be used indistinguishably.
 
 (2) A list of official translations of the association's name which may be used by the member parties is included in Annex A.
