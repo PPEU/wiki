@@ -36,16 +36,19 @@ agree to create an international non-profit association according to Luxembourgi
 (2) A list of official translations of the association's name which may be used by the member parties is included in Annex A.
 
 ##### Article 2 – Seat
+
 (1) The seat of the European Pirate Party is Luxembourg.
 
 (2) The address of the seat is 1a rue de Luxembourg, L-8184 Kopstal but can be changed by simple decision of the Board.
 
 ##### Article 3 – Language
+
 (1) In the event of divergence or of doubt between these statutes in the original version in English and any version in another language, the English language version prevails.
 
 (2) English shall be the working language of the Association. Any initiatives and proposals must be submitted in English. Aims and Goals
 
 ##### Article 4 – Principles
+
 (1) The Association shall pursue international aims in respect of the principles on which the European Union is based, namely principles of freedom, equality, solidarity, democracy, respect of Human Rights and Fundamental Freedoms, and respect for the Rule of Law.
 
 (2) The Association shall work as transparent as possible, regarding the protection of personal data and the right to privacy of the people involved.
@@ -59,6 +62,7 @@ agree to create an international non-profit association according to Luxembourgi
 (6) All decisions concerning choices and attitudes of PPEU member parties or political organizations in their own countries remain strictly under the sovereignty of national parties.
 
 ##### Article 5 – Objectives
+
 (1) Purpose of the organisation is to represent the European Pirate movement towards the European institutions and to work in the interest of its members by, amongst other things:
 * a) Facilitating coordination and cooperation between its members.
 * b) Assisting its members to promote the Pirate movement in Europe.
@@ -67,6 +71,7 @@ agree to create an international non-profit association according to Luxembourgi
 ### Members
 
 ##### Article 6 – Membership
+
 (1) There are two categories of members: Ordinary Members and Observer Members.
 
 (2) The number of members is unlimited, but may not be less than five Ordinary Members.
@@ -78,6 +83,7 @@ agree to create an international non-profit association according to Luxembourgi
 (5) A register of all the members will be kept at the registered office of the Association. This register lists the surname, first name, place of residence, date and place of birth of members or, in the case of legal persons or de facto associations, the name, legal form, address of the registered office, identity of the representative and, where applicable, the registration number in accordance with existing legislation and/or regulations. The list shall be updated every year by recording membership changes by name in alphabetical order. Any member of the association may consult the list of members at the association’s registered office free of charge.
 
 ##### Article 7 – Ordinary Members
+
 (1) Eligible as Ordinary Members are all parties which
 * a) are established as a political party or in another form, if their country or state does not allow them to become a party (or makes it very difficult for them) in a country or state of the European Union OR in a country or state which territory lies at least partly in the geographical Europe,
 * b) are not subordinate to any other party in this country or state,
@@ -106,6 +112,7 @@ agree to create an international non-profit association according to Luxembourgi
 * i) to have access to use of the Association's logo and other representational devices.
 
 ##### Article 8 – Observer Members
+
 (1) Eligible as Observer Members are each individual Pirate Member of the European Parliament and all organisations which
 * a) strive for similar political goals as the Association and are closely linked to it.
 * b) maintain a democratic political base and a democratic internal structure,
@@ -125,11 +132,13 @@ agree to create an international non-profit association according to Luxembourgi
 * f) to have access to use of the Association's logo and other representational devices.
 
 ##### Article 10 – Special cases of membership 
+
 (1) All Pirate Members of the European Parliament collectively form the Pirate Group in the European Parliament. This group shall be treated as an observer member, but granted all rights of an ordinary member.
 
 (2) Any organisation representing the majority of all Pirate youth organisations in Europe shall be recognized as the European Pirate Youth Organisation by the European Pirate Party. This organisation shall be treated as an observer member, but granted all rights of an ordinary member.
 
 ##### Article 11 – Procedure for admitting new Members
+
 (1) To become a Member of the Association, any eligible party, organisation or individual needs to send an application to the Board of the Association to the address of the official seat. An email will suffice.
 
 (2) The membership is granted, if the Council decides on it with a two-third majority. The Council shall give reasons for accepting or rejecting applications. As soon as the decision of the Council is valid and the new member has paid its membership fee, it may exercise all its rights and is bound to all obligations of its membership.
@@ -137,6 +146,7 @@ agree to create an international non-profit association according to Luxembourgi
 (3) Any Member may decide to apply for a different category of membership, if eligible; The same procedure as detailed above needs to be repeated for every change of the membership status.
 
 ##### Article 12 – Change of name and mergers
+
 (1) A Member that changes their name or merges with another political party/organisation must inform the Board.
 
 (2) The Board shall assess the degree of continuity of the new party/organisation with the Association's member and will decide on the confirmation of the membership status. 
@@ -178,6 +188,7 @@ agree to create an international non-profit association according to Luxembourgi
 (11) Resigning, deceased/dissolved/bankrupt or excluded members and their successors or rightful claimants shall have no entitlement to the assets of the Association. They may not claim restitution or reimbursement of subscriptions paid or payments made. They may not demand or claim a report, statement of accounts, sealing or inventory.
 
 ##### Article 14 – Membership Fees
+
 (1) An annual fee is requested of the Ordinary Members. There is no fee for Observer Members. All members may further contribute by giving donations to the Association.
 
 **Amount**
@@ -203,6 +214,7 @@ agree to create an international non-profit association according to Luxembourgi
 ##### Council
 
 ##### Article 15 – Composition and Powers of the Council
+
 (1) The Council is the highest decision making body of the Association. It is to be considered the General Assembly as detailed in the law of the 21st April 1928.
 
 (2) The Council shall consist of delegates representing Members as determined according to the Rules for the allocation of delegates and votes as provided for in Article 15. Members of the Board and other representatives may participate as well.
@@ -237,6 +249,7 @@ Meetings
 (11) Minutes of all Council meetings will be published on an appropriate website of the Association at the latest six weeks after a Council meeting. The minutes shall entail all decisions of the Council and the votes all delegates with voting rights.
 
 ##### Article 16 – Council delegates
+
 (1) Each Ordinary Member has a minimum entitlement of 1 delegate with voting rights.
 
 (2) The Ordinary Member is entitled to 1 additional delegate with voting rights for each of the following thresholds reached during the last National or European elections: 150.000 votes; 400.000 votes; 800.000 votes; 1.200.000 votes; 1.600.000 votes; 2.000.000 votes and every additional million votes. The Ordinary Member is entitled to 1 extra delegate with voting rights for each of the following thresholds reached during the last National or European elections: 4%, 8%, 12%, 16% and 20%.
