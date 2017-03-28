@@ -27,7 +27,6 @@ Subject to the ratification of the member parties,
 agree to create an international non-profit association according to Luxembourgish law and determine its statutes as follows:
 
 ## CONSTITUTION
-
 ### General Provisions
 
 ##### Article 1 – Name
