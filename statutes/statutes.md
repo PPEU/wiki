@@ -465,9 +465,10 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 ## ANNEXES
 ### Annex A - List of Official Translations of the Association's Name
 [Translations](translations.md)
-### Annex B - List of Ordinary and Observer Members
-//The list of members should be deposited at the association's office.//
 
-[[ppeu:members#list_of_members|Members]]
+### Annex B - List of Ordinary and Observer Members
+*The list of members should be deposited at the association's office.*
+[Members](memberlist.md)
+
 ### Annex C - Pirate Manifesto
 [The PPEU Manifesto](manifesto.md)
