@@ -468,7 +468,8 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 
 ### Annex B - List of Ordinary and Observer Members
 *The list of members should be deposited at the association's office.*
-[Members](memberlist.md)
+
+[List of Members](memberlist.md)
 
 ### Annex C - Pirate Manifesto
-[The PPEU Manifesto](manifesto.md)
+[The PPEU Pirate Manifesto](manifesto.md)
