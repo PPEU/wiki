@@ -25,3 +25,11 @@
 |   | [Piratpartiet](http://www.piratpartiet.se/)  | Sweden  | 1 | 2 | Founding member  |
 | PP-CH | [Piratenpartei Schweiz](https://www.piratenpartei.ch/)  | Switzerland  | 1 | 2 | Founding member  |
 | PP-SL | [Piratska stranka Slovenije](https://piratskastranka.si/)  | Slovenia  | 1 | 2 | Granted on [1st Council Meeting 2015](http://ppeu.net/wiki/doku.php?id=1st_council_meeting_2015) |
+
+## Observer Members
+
+| Abbriv.  | Name   | Country  | Type  | Note  |
+| --- | --- | --- | --- | --- |
+| YPE  | [Young Pirates of Europe](https://young-pirates.eu/)  | Europe  | d) | Founding member, 2 votes and 4 delegates in Council  |
+| MEP   | The Pirate Group in the European Parliament  | Europe  | d) | Founding member, 2 votes and 4 delegates in Council  |
+| PPJP  | [日本海賊党](http://www.piratepartyjapan.org/) (Pirate Party Japan)  | Japan | b) | [since 2015](http://ppeu.net/wiki/doku.php?id=1st_council_meeting_2015)  |
