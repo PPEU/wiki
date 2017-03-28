@@ -411,9 +411,15 @@ Art. 27 – Change of the Pirate Manifesto
 
 ## ANNEXES
 
-### Annex A – List of Official Translations of the Association's Name
-
+### Annex A - List of Official Translations of the Association's Name		
+[Translations](translations.md)		
+ 		 
+### Annex B - List of Ordinary and Observer Members		+### Annex A – List of Official Translations of the Association's Name
+*The list of members should be deposited at the association's office.*		+
 ### Annex B – List of Ordinary and Observer Members
-
-### Annex C – Pirate Manifesto
+ 		 
+[List of Members](memberlist.md)		+### Annex C – Pirate Manifesto
+ 		 
+### Annex C - Pirate Manifesto		
+[The PPEU Pirate Manifesto](manifesto.md)
 
