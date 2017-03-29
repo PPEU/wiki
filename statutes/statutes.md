@@ -1,9 +1,9 @@
 # STATUSES
 ## PREAMBLE
 
-We, the Undersigned, 
+We, the Undersigned,
 
-Convinced  that, while remaining proud of their own national identities and  history, the peoples of Europe are determined to transcend their former  divisions and, united ever more closely, to forge a common destiny,
+Convinced that, while remaining proud of their own national identities and  history, the peoples of Europe are determined to transcend their former  divisions and, united ever more closely, to forge a common destiny,
 
 Based on the Uppsala and Prague Declarations,
 
@@ -17,7 +17,7 @@ Focussing on the long-term welfare of European citizens instead of big money,
 
 Emerging from the struggle for a free, open and participative internet as a truly transnational and international movement,
 
-Uniting  the forces of Pirates and Pirate Parties from all over Europe to  influence European policy together, but with respect for the autonomy of  its members,
+Uniting  the forces of Pirates and Pirate Parties from all over Europe to  influence European policy together, but with respect for the autonomy of its members,
 
 Hoping to contribute to prosperity and peace all over Europe,
 
@@ -28,39 +28,39 @@ agree to create an international non-profit association according to Belgian law
 ## CONSTITUTION
 ### General Provisions
 ##### Article 1 – Name 
-(1) The  official name of the association shall be "European Pirate Party" and  „European Pirates“, abbreviated "PPEU" or „PIRATES“. Both the full and  the abbreviated names may be used indistinguishably.
+(1) The  official name of the association shall be "European Pirate Party" and „European Pirates“, abbreviated "PPEU" or „PIRATES“. Both the full and the abbreviated names may be used indistinguishably.
 
 (2) A list of official translations of the association's name which may be used by the member parties is included in Annex A.
 
 ##### Article 2 – Seat
 (1) The seat of the European Pirate Party is situated at 47A Rue Gerard, 1040 Etterbeek, Brussels, Belgium.
 
-(2) The  Council may move the seat anywhere in Belgium by simple majority vote.  To move it to any other location the Council has to decide unanimously.
+(2) The Council may move the seat anywhere in Belgium by simple majority vote. To move it to any other location the Council has to decide unanimously.
 
 ##### Article 3 - Language
-(1) In  the event of divergence or of doubt between these statutes in the  original version in English and any version in another language, the  English language version prevails.
+(1) In  the event of divergence or of doubt between these statutes in the  original version in English and any version in another language, the English language version prevails.
 
-(2) English  shall be the working language of the Association. Any initiatives and  proposals can only be adopted, if they have been translated into English  prior to the start of the decision-making-process on the level of the  Association.
+(2) English shall be the working language of the Association. Any initiatives and proposals can only be adopted, if they have been translated into English prior to the start of the decision-making-process on the level of the Association.
 
 ### Aims and Goals
 ##### Article 4 – Principles
-(1) The Association shall pursue international aims in respect of the  principles on which the European Union is based, namely principles of  freedom, equality, solidarity, democracy, respect of Human Rights and  Fundamental Freedoms, and respect for the Rule of Law.
+(1) The Association shall pursue international aims in respect of the principles on which the European Union is based, namely principles of freedom, equality, solidarity, democracy, respect of Human Rights and Fundamental Freedoms, and respect for the Rule of Law.
 
-(2) The  Association shall work as transparent as possible, regarding the  protection of personal data and the right to privacy of the people  involved.
+(2) The Association shall work as transparent as possible, regarding the protection of personal data and the right to privacy of the people involved.
 
-(3) The  Association shall take into account the opinions of the individual  Pirates who are  members of any of the member parties. Important  decisions shall be based on democratic principles for the inner workings  of the Association.
+(3) The Association shall take into account the opinions of the individual Pirates who are  members of any of the member parties. Important decisions shall be based on democratic principles for the inner workings of the Association.
 
 (4) The Association shall adhere to all regulations necessary to being recognized as a Party at European level.
 
-(5) The members of the Association shall adopt a common Pirate Manifesto (Annex C) which shall  reflect the principles and policies of the European Pirate movement.
+(5) The members of the Association shall adopt a common Pirate Manifesto (Annex C) which shall reflect the principles and policies of the European Pirate movement.
 
-(6) All decisions concerning choices and attitudes of PPEU member parties or  political organizations in their own countries remain strictly under the  sovereignty of national parties.
+(6) All decisions concerning choices and attitudes of PPEU member parties or political organizations in their own countries remain strictly under the sovereignty of national parties.
 
-(7) The Association may carry out all operations and conduct all activities  (including real estate transactions), both in Belgium and abroad, which  directly or indirectly increase or promote its objectives under the  condition that these activities adhere to the principles of this  organisation stated in this article.
+(7) The Association may carry out all operations and conduct all activities (including real estate transactions), both in Belgium and abroad, which directly or indirectly increase or promote its objectives under the condition that these activities adhere to the principles of this  organisation stated in this article.
 The Association does not undertake industrial or commercial transactions and does not seek to procure a profit to its members.
 
 ##### Article 5 - Objectives
-(1) Purpose of the organisation is to represent the European Pirate movement  towards the European institutions and to work in the interest of its  members by, amongst other things:
+(1) Purpose of the organisation is to represent the European Pirate movement towards the European institutions and to work in the interest of its members by, amongst other things:
 * a) Facilitating coordination and cooperation between its members.
 * b) Assisting its members to promote the Pirate movement in Europe.
 * c) Taking as its principles the Pirate manifesto, as will be annexed to the statutes.
@@ -69,18 +69,18 @@ The Association does not undertake industrial or commercial transactions and doe
 
 ### Members
 ##### Article 6 – Membership
-(1) The  number of members is unlimited, but may not be less than five Ordinary  Members. All Members, except for natural persons, shall be legal  entities constituted according to the laws and customs of their country  of origin. If a member does not possess legal personality according to  the laws and customs of its country of origin, it must appoint a natural  person to act in the name and on behalf of its organisation and its  members as a common attorney-in-fact. In case of a change of  representation, the //Board// of the association is immediately  informed in writing.
+(1) The number of members is unlimited, but may not be less than five Ordinary Members. All Members, except for natural persons, shall be legal entities constituted according to the laws and customs of their country of origin. If a member does not possess legal personality according to the laws and customs of its country of origin, it must appoint a natural person to act in the name and on behalf of its organisation and its  members as a common attorney-in-fact. In case of a change of representation, the //Board// of the association is immediately informed in writing.
 
 (2) There are two categories of members: Ordinary Members and Observer Members.
 
-(3) In Annex B to these Statutes all the member parties and member  organisations are listed. A register of all the members will be kept at the registered office of the Association. This register lists the  surname, first name, place of residence, date and place of birth of  members or, in the case of legal persons or de facto associations, the  name, legal form, address of the registered office, identity of the  representative and, where applicable, the registration number in  accordance with existing legislation and/or regulations. The list shall  be updated every year by recording membership changes by name in  alphabetical order. Any member of the association may consult the list  of members at the association’s registered office free of charge. 
+(3) In Annex B to these Statutes all the member parties and member organisations are listed. A register of all the members will be kept at the registered office of the Association. This register lists the surname, first name, place of residence, date and place of birth of  members or, in the case of legal persons or de facto associations, the name, legal form, address of the registered office, identity of the representative and, where applicable, the registration number in accordance with existing legislation and/or regulations. The list shall be updated every year by recording membership changes by name in alphabetical order. Any member of the association may consult the list of members at the association’s registered office free of charge. 
 
-(4) Within  one month of announcement of the statutes, a list must be deposited  with the registry of the civil court for the place where the association  is established, recording the name, legal form, address of the  registered office, identity of the representative and, where applicable,  the registration number in accordance with existing legislation and/or  regulations of all the Ordinary members of the association in  alphabetical order. The list shall be updated every year by recording  membership changes by name in alphabetical order.
+(4) Within one month of announcement of the statutes, a list must be deposited with the registry of the civil court for the place where the association is established, recording the name, legal form, address of the registered office, identity of the representative and, where applicable, the registration number in accordance with existing legislation and/or regulations of all the Ordinary members of the association in alphabetical order. The list shall be updated every year by recording membership changes by name in alphabetical order.
 
 ##### Article 7 – Ordinary Members
 (1) Eligible as Ordinary Members are all parties which
-* a) are established as a political party or in another form, if their  country or state does not allow them to become a party (or makes it very  difficult for them) in a country or state of the European Union OR in a  country or state which territory lies at least partly in the  geographical Europe without being a member state of the European Union,
-* b) are not subordinate to any other party in this country or state,        
+* a) are established as a political party or in another form, if their country or state does not allow them to become a party (or makes it very difficult for them) in a country or state of the European Union OR in a country or state which territory lies at least partly in the geographical Europe without being a member state of the European Union,
+* b) are not subordinate to any other party in this country or state,
 * c) carry the term „Pirate“ or any translation of that term somewhere in their party name,
 * d) intend to participate in elections to the European Parliament or their national parliament,
 * e) maintain a democratic political base and a democratic internal structure,
@@ -89,12 +89,12 @@ The Association does not undertake industrial or commercial transactions and doe
 * h) accept the Pirate Manifesto.
 
 (2) They have the following obligations:
-* a) to comply with all the regulations of the Statutes of the Association and all orders of the   bodies of the Association,
-* b) to cease and desist any actions which may harm the Association or are  contrary to the   objectives and principles of the Association or go  against the policies laid down in the Pirate Manifesto or damage the  Association in any other way,
+* a) to comply with all the regulations of the Statutes of the Association and all orders of the bodies of the Association,
+* b) to cease and desist any actions which may harm the Association or are contrary to the objectives and principles of the Association or go  against the policies laid down in the Pirate Manifesto or damage the Association in any other way,
 * c) to regularly attend Council meetings of the Association,
 * d) to participate in the political discussion and decisions of the Association,
 * e) to stay politically active and participate in elections,
-* f) to send their yearly accounts and election results to the Association  or a link to them, if they are published accessable for everyone online,
+* f) to send their yearly accounts and election results to the Association or a link to them, if they are published accessable for everyone online,
 * g) to conduct their financial organisation in a transparent and accountable manner,
 * h) to pay their designated fee as Ordinary Members in a timely manner and
 * i) to report every year to the Association on party and policy developments.
