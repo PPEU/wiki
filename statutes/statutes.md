@@ -427,9 +427,8 @@ Art. 27 – Change of the Pirate Manifesto
 ### Annex A - List of Official Translations of the Association's Name		
 [Translations](translations.md)		
  		 
-### Annex B - List of Ordinary and Observer Members		+### Annex A – List of Official Translations of the Association's Name
+### Annex B - List of Ordinary and Observer Members
 *The list of members should be deposited at the association's office.*		+
-### Annex B – List of Ordinary and Observer Members
  		 
 [List of Members](memberlist.md)		+### Annex C – Pirate Manifesto
  		 
