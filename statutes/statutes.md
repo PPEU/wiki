@@ -1,5 +1,4 @@
 # STATUSES
-
 ## PREAMBLE
 
 We, the Undersigned, 
@@ -28,28 +27,23 @@ agree to create an international non-profit association according to Belgian law
 
 ## CONSTITUTION
 ### General Provisions
-
 ##### Article 1 – Name 
-
 (1) The  official name of the association shall be "European Pirate Party" and  „European Pirates“, abbreviated "PPEU" or „PIRATES“. Both the full and  the abbreviated names may be used indistinguishably.
 
 (2) A list of official translations of the association's name which may be used by the member parties is included in Annex A.
 
 ##### Article 2 – Seat
-
 (1) The seat of the European Pirate Party is situated at 47A Rue Gerard, 1040 Etterbeek, Brussels, Belgium.
 
 (2) The  Council may move the seat anywhere in Belgium by simple majority vote.  To move it to any other location the Council has to decide unanimously.
 
 ##### Article 3 - Language
-
 (1) In  the event of divergence or of doubt between these statutes in the  original version in English and any version in another language, the  English language version prevails.
 
 (2) English  shall be the working language of the Association. Any initiatives and  proposals can only be adopted, if they have been translated into English  prior to the start of the decision-making-process on the level of the  Association.
 
 ### Aims and Goals
 ##### Article 4 – Principles
-
 (1) The Association shall pursue international aims in respect of the  principles on which the European Union is based, namely principles of  freedom, equality, solidarity, democracy, respect of Human Rights and  Fundamental Freedoms, and respect for the Rule of Law.
 
 (2) The  Association shall work as transparent as possible, regarding the  protection of personal data and the right to privacy of the people  involved.
@@ -66,18 +60,16 @@ agree to create an international non-profit association according to Belgian law
 The Association does not undertake industrial or commercial transactions and does not seek to procure a profit to its members.
 
 ##### Article 5 - Objectives
-
 (1) Purpose of the organisation is to represent the European Pirate movement  towards the European institutions and to work in the interest of its  members by, amongst other things:
 
-  * a) Facilitating coordination and cooperation between its members.
-  * b) Assisting its members to promote the Pirate movement in Europe.
-  * c) Taking as its principles the Pirate manifesto, as will be annexed to the statutes.
-  * d) Functioning as a link between European Pirate Parties and Pirate MEPs.
-  * e) Encouraging and support its members in organizing events focused on European topics.
+* a) Facilitating coordination and cooperation between its members.
+* b) Assisting its members to promote the Pirate movement in Europe.
+* c) Taking as its principles the Pirate manifesto, as will be annexed to the statutes.
+* d) Functioning as a link between European Pirate Parties and Pirate MEPs.
+* e) Encouraging and support its members in organizing events focused on European topics.
 
 ### Members
 ##### Article 6 – Membership
-
 (1) The  number of members is unlimited, but may not be less than five Ordinary  Members. All Members, except for natural persons, shall be legal  entities constituted according to the laws and customs of their country  of origin. If a member does not possess legal personality according to  the laws and customs of its country of origin, it must appoint a natural  person to act in the name and on behalf of its organisation and its  members as a common attorney-in-fact. In case of a change of  representation, the //Board// of the association is immediately  informed in writing.
 
 (2) There are two categories of members: Ordinary Members and Observer Members.
@@ -87,98 +79,94 @@ The Association does not undertake industrial or commercial transactions and doe
 (4) Within  one month of announcement of the statutes, a list must be deposited  with the registry of the civil court for the place where the association  is established, recording the name, legal form, address of the  registered office, identity of the representative and, where applicable,  the registration number in accordance with existing legislation and/or  regulations of all the Ordinary members of the association in  alphabetical order. The list shall be updated every year by recording  membership changes by name in alphabetical order.
 
 ##### Article 7 – Ordinary Members
-
 (1) Eligible as Ordinary Members are all parties which
-  * a) are established as a political party or in another form, if their  country or state does not allow them to become a party (or makes it very  difficult for them) in a country or state of the European Union OR in a  country or state which territory lies at least partly in the  geographical Europe without being a member state of the European Union,
-  * b) are not subordinate to any other party in this country or state,        
-  * c) carry the term „Pirate“ or any translation of that term somewhere in their party name,
-  * d) intend to participate in elections to the European Parliament or their national parliament,
-  * e) maintain a democratic political base and a democratic internal structure,
-  * f) are politically active,
-  * g) accept and comply with the regulations of these Statutes and orders of its bodies and
-  * h) accept the Pirate Manifesto.
+* a) are established as a political party or in another form, if their  country or state does not allow them to become a party (or makes it very  difficult for them) in a country or state of the European Union OR in a  country or state which territory lies at least partly in the  geographical Europe without being a member state of the European Union,
+* b) are not subordinate to any other party in this country or state,        
+* c) carry the term „Pirate“ or any translation of that term somewhere in their party name,
+* d) intend to participate in elections to the European Parliament or their national parliament,
+* e) maintain a democratic political base and a democratic internal structure,
+* f) are politically active,
+* g) accept and comply with the regulations of these Statutes and orders of its bodies and
+* h) accept the Pirate Manifesto.
 
 (2) They have the following obligations:
-  * a) to comply with all the regulations of the Statutes of the Association and all orders of the   bodies of the Association,
-  * b) to cease and desist any actions which may harm the Association or are  contrary to the   objectives and principles of the Association or go  against the policies laid down in the Pirate Manifesto or damage the  Association in any other way,
-  * c) to regularly attend Council meetings of the Association,
-  * d) to participate in the political discussion and decisions of the Association,
-  * e) to stay politically active and participate in elections,
-  * f) to send their yearly accounts and election results to the Association  or a link to them, if they are published accessable for everyone online,
-  * g) to conduct their financial organisation in a transparent and accountable manner,
-  * h) to pay their designated fee as Ordinary Members in a timely manner and
-  * i) to report every year to the Association on party and policy developments.
+* a) to comply with all the regulations of the Statutes of the Association and all orders of the   bodies of the Association,
+* b) to cease and desist any actions which may harm the Association or are  contrary to the   objectives and principles of the Association or go  against the policies laid down in the Pirate Manifesto or damage the  Association in any other way,
+* c) to regularly attend Council meetings of the Association,
+* d) to participate in the political discussion and decisions of the Association,
+* e) to stay politically active and participate in elections,
+* f) to send their yearly accounts and election results to the Association  or a link to them, if they are published accessable for everyone online,
+* g) to conduct their financial organisation in a transparent and accountable manner,
+* h) to pay their designated fee as Ordinary Members in a timely manner and
+* i) to report every year to the Association on party and policy developments.
 
 (3) They have the following rights:
-  * a) to vote in the Council on every matter,
-  * b) to participate in the political discussions and to speak at Council meetings,
-  * c) to participate in the development of the political agenda,
-  * d) to participate in the decision making process,
-  * e) to have access to all non-confidential documents of the Association,
-  * f) to table resolutions and amendments as well as contribute other items to the agenda of Council meetings,
-  * g) to participate in common campaigns,
-  * h) to appoint delegates and propose candidates for the Board
-  * i) to have access to use of the Associations logo and other representational devices.
+* a) to vote in the Council on every matter,
+* b) to participate in the political discussions and to speak at Council meetings,
+* c) to participate in the development of the political agenda,
+* d) to participate in the decision making process,
+* e) to have access to all non-confidential documents of the Association,
+* f) to table resolutions and amendments as well as contribute other items to the agenda of Council meetings,
+* g) to participate in common campaigns,
+* h) to appoint delegates and propose candidates for the Board
+* i) to have access to use of the Associations logo and other representational devices.
 
 ##### Article 8 – Observer Members
-
 (1) Eligible as Observer Members are
-  * a) all parties which
-    * (i) are established as a political party or in another form, if their  region, country or state does not allow them to become a party (or makes  it very difficult for them), in a region, country or state of at least a part of the geographical Europe,
-    * (ii) are subordinate to another Ordinary Member Party or one eligible to become such a member party,
-    * (iii) carry the term „Pirate“ or any translation of that term somewhere in their party or organisation name,
-    * (iv) intend to participate in elections in their region, country or state, if legally possible and feasible,
-    * (v) maintain a democratic political base and a democratic internal structure,
-    * (vi) are politically active,
-    * (vii) accept and intend to comply with the regulations of these Statutes and orders of its bodies and
-    * (viii) accept the Pirate Manifesto.
-  * b) all parties which
-    * (i) are established as a political party or in another form, if their  region, country or state does not allow them to become a party (or makes  it very difficult for them), in a region, country or state outside of  geographical Europe,
-    * (ii) are not subordinate to another party or organisation,
-    * (iii) carry the term „Pirate“ or any translation of that term somewhere in their party or organisation name,
-    * (iv) intend to participate in elections in their region, country or state, if legally possible and feasible,
-    * (v) maintain a democratic political base and a democratic internal structure,
-    * (vi) are politically active,
-    * (vii) accept and intend to comply with the regulations of these Statutes and orders of its bodies and
-    * (viii) strive for similar political goals as the Association.
-  * c) All organisations which
-    * (i) carry the term „Pirate“ or any translation of that term somewhere in their organisation name,
-    * (ii) maintain a democratic political base and a democratic internal structure,
-    * (iii) are politically active,
-    * (iv) accept and intend to comply with the regulations of these Statutes and orders of its bodies and
-    * (v) strive for similar political goals as the Association and are closely linked to it.
-  * d) The Pirate Group in the European Parliament and the European Pirate  Youth Organisation and each Pirate Member of the European Parliament
+* a) all parties which
+ * (i) are established as a political party or in another form, if their  region, country or state does not allow them to become a party (or makes  it very difficult for them), in a region, country or state of at least a part of the geographical Europe,
+ * (ii) are subordinate to another Ordinary Member Party or one eligible to become such a member party,
+ * (iii) carry the term „Pirate“ or any translation of that term somewhere in their party or organisation name,
+ * (iv) intend to participate in elections in their region, country or state, if legally possible and feasible,
+ * (v) maintain a democratic political base and a democratic internal structure,
+ * (vi) are politically active,
+ * (vii) accept and intend to comply with the regulations of these Statutes and orders of its bodies and
+ * (viii) accept the Pirate Manifesto.
+* b) all parties which
+ * (i) are established as a political party or in another form, if their  region, country or state does not allow them to become a party (or makes  it very difficult for them), in a region, country or state outside of  geographical Europe,
+ * (ii) are not subordinate to another party or organisation,
+ * (iii) carry the term „Pirate“ or any translation of that term somewhere in their party or organisation name,
+ * (iv) intend to participate in elections in their region, country or state, if legally possible and feasible,
+ * (v) maintain a democratic political base and a democratic internal structure,
+ * (vi) are politically active,
+ * (vii) accept and intend to comply with the regulations of these Statutes and orders of its bodies and
+ * (viii) strive for similar political goals as the Association.
+* c) All organisations which
+ * (i) carry the term „Pirate“ or any translation of that term somewhere in their organisation name,
+ * (ii) maintain a democratic political base and a democratic internal structure,
+ * (iii) are politically active,
+ * (iv) accept and intend to comply with the regulations of these Statutes and orders of its bodies and
+ * (v) strive for similar political goals as the Association and are closely linked to it.
+* d) The Pirate Group in the European Parliament and the European Pirate  Youth Organisation and each Pirate Member of the European Parliament
 
 (2) The  Pirate Group in the European Parliament and the European Pirate Youth Organisation will be treated like an Ordinary Member concerning their  rights and like an Observer Member concerning their obligations.
 
 (3) Each Pirate Member of the European Parliament may also become an Observer Member, if it is eligible.
 
 (4) They have the following obligations:
-  * a) to comply with all the regulations of the Statutes of the Association and all orders of the bodies of the Association,
-  * b) to cease and desist any actions which may harm the Association or are  contrary to the objectives and principles of the Association or go  against the policies laid down in the Pirate Manifesto or damage the  Association in any other way,
-  * c) to stay politically active and participate in elections, if possible and feasible,
-  * d) to send their yearly accounts and election results to the Association  or a link to them, if they are published accessable for everyone online,
-  * e) to conduct their financial organisation in a transparent and accountable manner and
-  * f) to report every year to the Association on the party / organisation and policy developments.
+* a) to comply with all the regulations of the Statutes of the Association and all orders of the bodies of the Association,
+* b) to cease and desist any actions which may harm the Association or are  contrary to the objectives and principles of the Association or go  against the policies laid down in the Pirate Manifesto or damage the  Association in any other way,
+* c) to stay politically active and participate in elections, if possible and feasible,
+* d) to send their yearly accounts and election results to the Association  or a link to them, if they are published accessable for everyone online,
+* e) to conduct their financial organisation in a transparent and accountable manner and
+* f) to report every year to the Association on the party / organisation and policy developments.
 
 (5) They have the following rights:
-  * a) to participate in the political discussions and to speak at Council meetings,
-  * b) to participate in the development of the political agenda,
-  * c) to participate in the decision making process,
-  * d) to have access to all non-confidential documents of the Association,
-  * e) to participate in common campaigns and events and
-  * f) to have access to use of the Associations logo and other representational devices.
+* a) to participate in the political discussions and to speak at Council meetings,
+* b) to participate in the development of the political agenda,
+* c) to participate in the decision making process,
+* d) to have access to all non-confidential documents of the Association,
+* e) to participate in common campaigns and events and
+* f) to have access to use of the Associations logo and other representational devices.
 
 (6) A  party which is eligible to become an Ordinary Member may decide to  apply only for the status of an Observer Member. It may at any time  apply for Ordinary Member status, if it fulfils the necessary  conditions. The procedure is detailed under Art. 10  (Procedure for  admitting new Members) and needs to be repeated to change the membership  status.
  
 ##### Article 10 – Procedure for admitting new Members
-
 (1) To be eligible to become a Member of the Association, any aspiring party, organisation or individual needs to send an application to the Board of the Association to the address of the official seat. An email will suffice.
 
 (2) The  membership is granted, if the Council decides on it with a two-third  majority. The Council shall give reasons for accepting or rejecting  applications. As soon as the decision of the Council is valid and the  new member has paid its membership fee, it may exercise all its rights  and is bound to all obligations of its membership.
 
 ##### Article 11 – Change of name and mergers
-
 (1) A Member that changes their name or merges with another political party/organisation must inform the Board.
 
 (2) The Board shall assess the degree of continuity of the new  party/organisation with the Association's member and will decide on the  confirmation of the membership status. This decision shall be confirmed by the Council. Both decisions require a two-third majority.
@@ -188,14 +176,13 @@ The Association does not undertake industrial or commercial transactions and doe
 (4) In case of non-confirmation, the Council shall give reasons for the  decision and the new party/organisation may submit a new application for  membership.
 
 ##### Article 12 – Resignation, Exclusion, Suspension, Loss of Membership and Death / Dissolution / Bankruptcy
-
 (1) Any member, whatever their identity, may at any time resign from the  Association. The resignation must be notified to the Board by registered letter from a duly mandated person to the registered office of the Association. The resignation shall come into effect immediately or as otherwise specified in the letter of resignation, but the member resigning remains bound by all outstanding debts contracted with the Association until the end of the financial year in which the resignation came into effect.
 
 (2) If a new Ordinary Member Party is superordinate to an existing Ordinary  Member Party, the subordinate party shall automatically become an Observer Member Party.
 
 (3) Any member may also be suspended or excluded by the Council on at least one of the following grounds:
-  * a) non-compliance with its obligations,
-  * b) non compliance with the criteria for membership.
+* a) non-compliance with its obligations,
+* b) non compliance with the criteria for membership.
 
 (4) A suspended member is obliged to uphold its financial obligations to the  Association. The suspended member may attend meetings of the Association  but without voting rights. A suspended member can regain its membership if it complies with its obligations and the criteria for membership.  Such compliance must be formally notified to the //Board// who then may recommend to the Council to lift the suspension.
 
@@ -212,7 +199,6 @@ The Association does not undertake industrial or commercial transactions and doe
 (10) They may not demand or claim a report, statement of accounts, sealing or inventory.
 
 ##### Article 13 – Membership Fees
-
 (1) A fee is requested of the Ordinate Member parties. The amount of which is set annually by the Council on proposal of the Board represented by the  Treasurer. The Treasurer will meet up with all the Ordinary Member Parties' Treasurers to discuss the obligations of the member parties in regard to the annual fee in advance of the  first Council meeting of the year. The  Ordinary Member Parties have to hand out to the Treasurer a  copy of their last annual account in advance of the meeting. If no  agreement can be reached, the member parties will pay the same fee as  last year. Membership Fees are fixed in Euro; they are payable without  deduction of incurred costs.
 
 (2) The annual Membership Fees of the Association's Ordinary Members consist of a basic fee and an additional part based on decision of the Council.
@@ -241,17 +227,17 @@ The Association does not undertake industrial or commercial transactions and doe
 Non-voting representatives of Observer members and Non-Voting-Delegates from Ordinary Members, and Members of the Board may participate as well.
  
 (4) The Council:
-  * a) co-ordinates initiatives and activities consistent with the Association's Manifesto and agreed common policy and the Statutes of the Association;
-  * b) is responsible for the political agenda of the Association and adopts policy papers and resolutions;
-  * c) elects and recalls the Board and other representatives of the Association, if stated in these statutes;
-  * d) decides on the admittance, suspension and exclusion of Ordinary and Observer Members;
-  * e) advises the Pirate Group in the European Parliament on their decisions on the admission of MEPs who do not belong to a Member of the Association, after consultation with the national Pirate party concerned;
-  * f) supports and evaluates the Board's activities;
-  * g) approves the budget, reports and accounts
-  * h) adopts and changes the Statutes of the Association;
-  * i) adopts Rules of Procedure 
-  * j) decides on all other topics assigned to the Council in the Statutes
-  * k) approves all other fundamental decisions of the Association 
+* a) co-ordinates initiatives and activities consistent with the Association's Manifesto and agreed common policy and the Statutes of the Association;
+* b) is responsible for the political agenda of the Association and adopts policy papers and resolutions;
+* c) elects and recalls the Board and other representatives of the Association, if stated in these statutes;
+* d) decides on the admittance, suspension and exclusion of Ordinary and Observer Members;
+* e) advises the Pirate Group in the European Parliament on their decisions on the admission of MEPs who do not belong to a Member of the Association, after consultation with the national Pirate party concerned;
+* f) supports and evaluates the Board's activities;
+* g) approves the budget, reports and accounts
+* h) adopts and changes the Statutes of the Association;
+* i) adopts Rules of Procedure 
+* j) decides on all other topics assigned to the Council in the Statutes
+* k) approves all other fundamental decisions of the Association 
 
 (5) The Council may validly decide to dissolve the association or amend the statutes only in accordance with the provisions of Belgian law of 27 June 1921 on non-profit associations (ASBL), international non-profit associations (AISBL) and foundations, as amended by the Act of 2 May 2002.
 
@@ -266,10 +252,10 @@ Non-voting representatives of Observer members and Non-Voting-Delegates from Ord
 (10) Minutes of all Council meetings will be published on an appropriate website of the Association at the latest six weeks after a Council meeting. The minutes shall entail all decisions of the Council and the votes of each Ordinary member, the Pirate Group in the European Parliament and the Young Pirates of Europe (YPE).
 
 ##### Article 15 - Allocation of Votes and Delegates ===
-
 (1) Each Ordinary Member has a minimum entitlement of one vote.
 
 (2) The Ordinary Member is entitled to one additional vote for each of the  following thresholds reached during the last National or European  elections: 150.000 votes; 400.000 votes; 800.000 votes; 1.200.000 votes;  1.600.000 votes; 2.000.000 votes and every additional million votes.
+
 The Ordinary Member is entitled to a supplementary vote for each of the  following thresholds reached during the last National or European  elections: 4%, 8%, 12%, 16% and 20%.
 
 (3) Each Ordinary Member has a minimum entitlement of two delegates.
@@ -277,11 +263,11 @@ The Ordinary Member is entitled to a supplementary vote for each of the  followi
 (4) Ordinary Members are entitled to 2 additional delegates if their total number of votes is 4 or more, or to 4 additional delegates if their total number of votes is 8 or more.
 
 (5) For those sovereign states with more than one Ordinary Member in the European Pirate Party the rules of §§ 1 and 2 are applied as follows:
-  * a) Election results for regional parliaments are not used for the allocation system in the European Pirate Party.
-  * b) The additional voting rights based on absolute numbers of votes as allocated under Paragraph 1 apply to each Ordinary Member. 
-  * c) For the additional voting rights based on National and European % election results, the following system is used to give effect to the  provisions of § 1 and § 2: 
-    * i) The highest national or European % election result of both Members are calculated together and that sum is used for the allocation system. The  additional voting rights are distributed to the Ordinary Member with the  highest % electoral result.
-    * ii) In  the case of Ordinary Members which are regional parties these additional voting rights are proportionally distributed among those Members based on the highest % electoral results those Members have in the area where they run respectively.
+* a) Election results for regional parliaments are not used for the allocation system in the European Pirate Party.
+* b) The additional voting rights based on absolute numbers of votes as allocated under Paragraph 1 apply to each Ordinary Member. 
+* c) For the additional voting rights based on National and European % election results, the following system is used to give effect to the  provisions of § 1 and § 2: 
+ * i) The highest national or European % election result of both Members are calculated together and that sum is used for the allocation system. The  additional voting rights are distributed to the Ordinary Member with the  highest % electoral result.
+ * ii) In  the case of Ordinary Members which are regional parties these additional voting rights are proportionally distributed among those Members based on the highest % electoral results those Members have in the area where they run respectively.
 
 (6) Where Ordinary Members participate in an electoral alliance or coalition,  their votes will be calculated in proportion to the Pirate votes in the  total votes of the alliance/coalition based on the seats gained  respectively by the alliance and the Ordinary Member.
 
@@ -292,9 +278,9 @@ The Ordinary Member is entitled to a supplementary vote for each of the  followi
 (9) In addition to Ordinary Members, the Pirate Group in the European  Parliament and the YPE have the right to four delegates each and to 2 votes each.
 
 (10) Any Ordinary member may also choose to use the lower result for the allocating of votes and delegates. Any Ordinary Member may also forgo additional or supplementary votes deliberately which will also lower their membership fee.
+
 #### Board
 ##### Article 16 - Composition and Powers of the Board
-
 (1) The Board consists of one Chairperson, two Vice-Chairpersons, one Treasurer, and up to five Board members.
  
 (2) The Board is responsible for the permanent political representation of the European Pirate Party, the execution of the Council's decisions and the activities of the European Pirate Party's office.
@@ -316,7 +302,6 @@ The Ordinary Member is entitled to a supplementary vote for each of the  followi
 (11) Any appointment, resignation or dismissal of a member of the Board must be deposited with the registry of the commercial court and published in the Annex to the Belgian State Gazette.
 
 ##### Art. 17 - Election of the Board Members
-
 (1) Each candidate must be nominated by an Ordinary Member.
 
 (2) All nominations must specify the particular post for which the candidate is being proposed (i.e. Chairperson, Vice-Chairperson, Treasurer or a Board Member without a special function). Each Ordinary Member may nominate and support several candidates.
@@ -326,9 +311,11 @@ The Ordinary Member is entitled to a supplementary vote for each of the  followi
 (4) All posts will be voted on separately, but if more than one person shall be elected for a certain position (e.g. two Vice-Chairpersons and the Board members without a special function), the election may be done in one round of voting.
 
 (5) If only one candidate is to be elected, the candidate who gains more than 50% of the votes cast and most of the votes in the first round, is the person elected.
+
 Should no candidate gain more than 50% of the first round voting, a second round will be run between the two highest scoring candidates. The candidate who receives more than 50% of the votes cast and most of the votes in the second round is elected.
 
 (6) If several candidates are to be elected, the candidates who gain more than 50% of the votes cast in order of the highest result to the lowest are elected, until all positions are filled.
+
 If not enough candidates have reached 50% of the votes cast, a second round of voting will be held. In the second round only those candidates who got the highest number of votes will be eligible. The number of candidates shall be double the number of positions still needing to be filled. The candidates who gain more than 50% of the votes cast in order of the highest result to the lowest are elected in the second round, until all positions are filled.
 
 (7) The Council may decide on additional rounds of voting and the admission of new candidates, if a position could not be filled.
@@ -336,7 +323,7 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (8) Method of voting will be approval voting, meaning that every voter may have one vote per candidate.
 
 (9) The order of voting:
-  * Chairperson; Vice-Chairpersons; Treasurer; further Board Members
+* Chairperson; Vice-Chairpersons; Treasurer; further Board Members
 
 (10) If a candidate is elected as a Board member and they accept, they will automatically loose any mandate as a delegate in the Council after the meeting of the Council is over. They may not accept a new delegation while still in office.
 
@@ -429,9 +416,9 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (6) As from the moment the decision of dissolution is taken, the Association  is required to mention at all times that it is ‘in dissolution’.
 
 (7) In the event that the Association is dissolved, the Council shall decide  by a simple majority of the votes cast on 
-  * a) the appointment, powers  and remuneration of the liquidators,
-  * b) the methods and procedures for the liquidation of the Association and
-  * c) the destination to be given to the net assets of the Association. The net assets of the  Association will have to be allocated to a non-profit purpose. They may be divided among the member parties according to their financial contributions.
+* a) the appointment, powers  and remuneration of the liquidators,
+* b) the methods and procedures for the liquidation of the Association and
+* c) the destination to be given to the net assets of the Association. The net assets of the  Association will have to be allocated to a non-profit purpose. They may be divided among the member parties according to their financial contributions.
 
 (7) All such decisions have to be duly filed at the clerk’s office of the  competent Commercial Court and published in the Annexes of the Belgian  Official Gazette in line with the applicable legislation.
 
@@ -440,23 +427,23 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (1) When and if at least 5 European Pirate Parties who are eligible to become Ordinary Members have signed and ratified these Statutes the Members of the European Parlament representing the Swedish Pirate Party shall call for a founding Council meeting of the association, to be held in Brussels at which time these statutes shall enter into force.
 
 (2) The founding Council meeting shall in all respects be carried out as a regular council meeting with the following exceptions:
-  * a) Any European Pirate Parties who are eligible to become Ordinary Members and have signed and ratified these Statutes represented by delegate(s) at the Founding Council shall be considered a founding member.
-  * b) Number of Delegates and votes given to each founding member at the founding Council meeting shall be the same as for a regular council meeting in accordance with these statutes.
-  * c) All functions related to the meeting normally carried out by the board shall be carried out by the Pirate Members of the European parliament.
+* a) Any European Pirate Parties who are eligible to become Ordinary Members and have signed and ratified these Statutes represented by delegate(s) at the Founding Council shall be considered a founding member.
+* b) Number of Delegates and votes given to each founding member at the founding Council meeting shall be the same as for a regular council meeting in accordance with these statutes.
+* c) All functions related to the meeting normally carried out by the board shall be carried out by the Pirate Members of the European parliament.
 
 (3) Any European Pirate Party who are eligible to become Ordinary Members have signed and ratified these Statutes have to send notification of any of these acts: 
-  * a) signing of the Statutes,
-  * b) ratification of the Statutes or
-  * c) electing or choosing in any other way a delegate or candidate for the Board of the Association. 
+* a) signing of the Statutes,
+* b) ratification of the Statutes or
+* c) electing or choosing in any other way a delegate or candidate for the Board of the Association. 
 
 (4) This shall be done by both of the following means: 
-  * a)  by email to the Members of the European Parlament representing the Swedish Pirate Party
-  * b) by sending a letter to the official seat of the Association according to these Statutes. 
+* a)  by email to the Members of the European Parlament representing the Swedish Pirate Party
+* b) by sending a letter to the official seat of the Association according to these Statutes. 
 
 ##### Art. 29 – Transitional Clause
 (1) Within 6 months from the day when the PPEU is recognised by the EU as a  Political Party at the EU level an extraordinary convention shall convene to revise all statutes and in particular to decide on new paragraphes regulating 
-  * a) membership fee and 
-  * b) voting allocation for the Council.
+* a) membership fee and 
+* b) voting allocation for the Council.
 
 (2) At the convention Ordinary Members will have the right to send delegates with voting rights according to the current statutes regulating voting rights in the Council.
 
