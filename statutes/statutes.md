@@ -211,7 +211,7 @@ agree to create an international non-profit association according to Luxembourgi
 
 ### Organs
 
-##### Council
+#### Council
 
 ##### Article 15 – Composition and Powers of the Council
 
