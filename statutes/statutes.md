@@ -66,7 +66,7 @@ agree to create an international non-profit association according to Luxembourgi
 (1) Purpose of the organisation is to represent the European Pirate movement towards the European institutions and to work in the interest of its members by, amongst other things:
 * a) Facilitating coordination and cooperation between its members.
 * b) Assisting its members to promote the Pirate movement in Europe.
-* d) Functioning as a link between European Pirate Parties and Pirate Members of the European Parliaments.
+* c) Functioning as a link between European Pirate Parties and Pirate Members of the European Parliaments.
 
 ### Members
 
@@ -91,14 +91,14 @@ agree to create an international non-profit association according to Luxembourgi
 * d) intend to participate in elections to the European Parliament or their national parliament,
 * e) maintain a democratic political base and a democratic internal structure,
 * f) are politically active,
-* g) accept and comply with the regulations of these Statutes and orders of its bodies and
+* g) accept and comply with the regulations of these Statutes and orders of its bodies, and
 * h) accept the Pirate Manifesto.
 
 (2) Ordinary Members have the following obligations:
 * a) to comply with all the regulations of the Statutes of the Association and all orders of the bodies of the Association,
-* b) to cease and desist any actions which may harm the Association or are contrary to the objectives and principles of the Association or go against the policies laid down in the Pirate Manifesto or damage the Association in any other way,
-* g) to conduct their financial organisation in a transparent and accountable manner,
-* h) to pay their designated fee as Ordinary Members in a timely manner 
+* b) to cease and desist any actions which may harm the Association or are contrary to the objectives and principles of the Association, or go against the policies laid down in the Pirate Manifesto or damage the Association in any other way,
+* c) to conduct their financial organisation in a transparent and accountable manner,
+* d) to pay their designated fee as Ordinary Members in a timely manner.
 
 (3) Ordinary Members have the following rights:
 * a) to vote in the Council on every matter,
@@ -108,15 +108,15 @@ agree to create an international non-profit association according to Luxembourgi
 * e) to have access to all non-confidential documents of the Association,
 * f) to table resolutions and amendments as well as contribute other items to the agenda of Council meetings,
 * g) to participate in common campaigns,
-* h) to appoint delegates and propose candidates for the Board
+* h) to appoint delegates and propose candidates for the Board,
 * i) to have access to use of the Association's logo and other representational devices.
 
 ##### Article 8 – Observer Members
 
 (1) Eligible as Observer Members are each individual Pirate Member of the European Parliament and all organisations which
-* a) strive for similar political goals as the Association and are closely linked to it.
+* a) strive for similar political goals as the Association and are closely linked to it,
 * b) maintain a democratic political base and a democratic internal structure,
-* c) accept and intend to comply with the regulations of these Statutes and orders of its bodies
+* c) accept and intend to comply with the regulations of these Statutes and orders of its bodies.
 
 (2) Observer Members have the following obligations:
 * a) to comply with all the regulations of the Statutes of the Association and all orders of the bodies of the Association,
@@ -381,21 +381,25 @@ Chairperson; Vice-Chairpersons; Treasurer; further Board Members
 (4) The accounts of the Association are to be audited annually or as often as the law necessitates.
 Change of Statutes and the Pirate Manifesto and Decision-making-Process
 
-### Procedures 
+### Change of Statutes and the Pirate Manifesto and Decision-making-Process
+
+#### Procedures 
 
 ##### Article 25 – Decision-making-Process
 (1) If not otherwise specified in these Statutes, all decisions taken by the Council or the Board will be decided by a simple majority of the votes cast. Abstentions will not be taken into account.
 
 (2) All votes will be public and published in the minutes of a meeting, including those for elections. They shall be done in writing, if appropriate. To fulfil the requirement of a written vote, an email or chat protocol will be sufficient
 
-### Article 26 – Change of Statutes
+### Change of Statutes and the Pirate Manifesto
+
+##### Article 26 – Change of Statutes
 (1) Proposals must be presented in writing to the Members of the Council for deliberation at least 4 weeks prior to the meeting at which the Council will decide on those proposals. The proposed amendments to the Statutes must be attached to the notice calling the meeting of the Council. A reference to a website displaying the proposed changes of the Statutes would also be sufficient.
 
 (2) Decisions regarding amendments to the Statutes can only be taken if there is an attendance quota of two-thirds of the ordinary members and shall be taken with a double majority of two-thirds of the votes cast by two-thirds of the Ordinary Members taking part in the voting, except for decisions on the Principles (Art. 4) and Objectives (Art. 5) where consent of all the Ordinary Council Members is necessary.
 
 (3) Any decision amending the Statutes shall be submitted to the  Company Registrar (RCSL) and published according to the law.
 
-Art. 27 – Change of the Pirate Manifesto
+##### Art. 27 – Change of the Pirate Manifesto
 (1) The Pirate Manifesto combines the identified common policies of the member parties in a document representing the common policies of the Association and is an integral part of these Statutes.
 
 (2) Any changes to the Pirate Manifesto will be following the same procedure as those to the Statutes.
@@ -411,7 +415,7 @@ Art. 27 – Change of the Pirate Manifesto
 
 (4) Except in the event of judicial dissolution and automatic dissolution due to the requirements of the law, the association may be prematurely dissolved only by a decision of the Council acting in accordance with Article 20 of the Luxembourgish Law on Not-for-profit Associations.
 
-(5) It may be dissolved by a double majority of two-thirds of the votes cast by two-thirds of the Ordinary Members taking part in the voting, with an attendance quota of two-thirds of the ordinary members. If the quota is not reached, a new meeting of the Council may be called. This second meeting of the Council shall be entitled to take valid decisions on the dissolution of the association irrespective of the attendance quota.
+(5) It may be dissolved by a double majority of two-thirds of the votes cast by two-thirds of the Ordinary Members taking part in the voting, with an attendance quota of two-thirds of the Ordinary Members. If the quota is not reached, a new meeting of the Council may be called. This second meeting of the Council shall be entitled to take valid decisions on the dissolution of the association irrespective of the attendance quota.
 
 (6) As from the moment the decision of dissolution is taken, the Association is required to mention at all times that it is ‘in dissolution’.
 
