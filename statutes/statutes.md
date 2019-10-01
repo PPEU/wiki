@@ -33,9 +33,9 @@ agree to create an international non-profit association according to Belgian law
 (2) A list of official translations of the association's name which may be used by the member parties is included in Annex A.
 
 ##### Article 2 – Seat
-(1) The seat of the European Pirate Party is situated at 47A Rue Gerard, 1040 Etterbeek, Brussels, Belgium.
+(1) The seat of the European Pirate Party is situated at Luxembourg.
 
-(2) The Council may move the seat anywhere in Belgium by simple majority vote. To move it to any other location the Council has to decide unanimously.
+(2) The Board may move the seat anywhere in Luxembourg.
 
 ##### Article 3 - Language
 (1) In  the event of divergence or of doubt between these statutes in the  original version in English and any version in another language, the English language version prevails.
