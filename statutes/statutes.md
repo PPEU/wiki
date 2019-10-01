@@ -23,7 +23,7 @@ Hoping to contribute to prosperity and peace all over Europe,
 
 Subject to the ratification of the member parties,
 
-agree to create an international non-profit association according to Belgian law and determine its statutes as follows:
+agree to create an international non-profit association according to Luxembourgish law and determine its statutes as follows:
 
 ## CONSTITUTION
 ### General Provisions
@@ -238,13 +238,13 @@ Non-voting representatives of Observer members and Non-Voting-Delegates from Ord
 * j) decides on all other topics assigned to the Council in the Statutes
 * k) approves all other fundamental decisions of the Association 
 
-(5) The Council may validly decide to dissolve the association or amend the statutes only in accordance with the provisions of Belgian law of 27 June 1921 on non-profit associations (ASBL), international non-profit associations (AISBL) and foundations, as amended by the Act of 2 May 2002.
+(5) The Council may validly decide to dissolve the association or amend the  statutes only in accordance with the provisions of Luxembourgish law of 21st April 1928 on non-profit associations (ASBL) and foundations, as  amended.
 
 (6) On the proposal of one-third of the Ordinary Members any member of the Board may be suspended or dismissed by the Council by a two thirds majority of the votes cast after debate in Council where the member is given adequate opportunity to present her/his case.
 
 (7) The Council will meet at least once in a calendar year, more often if requested by at least 1/4 of the Ordinary Members or by a decision of the Board. Meeting may be in person or online. If the Council meeting is in person, remote participation of non-attending members shall be possible. The Board will prepare the meetings and invite all members by email at least one month before the date of the Council meeting. In urgent cases this time may be shortened to an appropriate length. The invitation to the Council meeting has to specify date, time, place and the draft agenda of the meeting. A link to a website with the agenda in the invitation shall be sufficient and necessary.
  
-(8) Save in the cases provided for in Articles 8, 12 and 20 of the Belgian law of 27 June 1921 on non-profit associations (ASBL), international non-profit associations (AISBL) and foundations, as amended by the Act of 2 May 2002, the meeting may legitimately consider items not announced on the agenda, provided that all members of the Council are present and/or  represented and so agree at the meeting by a simple majority vote of all the voting Ordinary Members.
+(8) Save in the cases provided for in Articles 6 and 8 of the Luxembourgish law of 21st April 1928 on non-profit associations (ASBL) and  foundations, as amended, the meeting may legitimately consider items not  announced on the agenda, provided that all members of the Council are  present and/or represented and so agree at the meeting by a simple majority vote of all the voting Ordinary Members.
 
 (9) Counter-proposals directly related to items on the agenda shall be published on the website containing the agenda and send by email to all Members preferably one week in advance of the meeting, but the meeting may also adopt proposals handed in until the voting by a simple majority vote of all the voting Ordinary members. If they have been handed in a week in advance of the meeting, they are automatically admitted.
 
@@ -297,8 +297,6 @@ The Ordinary Member is entitled to a supplementary vote for each of the  followi
 (8) Internal Regulations may be adopted by the Board to regulate its procedure and  the tasks of its members. If Internal Regulations are adopted, they shall be sent to all the members. If Internal Regulations of the Board conflict with the Statutes, the Statutes shall prevail.
 
 (9) For the purposes of certain actions and duties or everyday management functions, the Board may transfer its powers to one or more members of the Board or even another person, who may or may not be a member of the  Association. The Board will have the faculty of special delegate. The  powers of the said person(s) shall be defined precisely by the Board; the Board may at any time revoke these powers with immediate effect.
-
-(11) Any appointment, resignation or dismissal of a member of the Board must be deposited with the registry of the commercial court and published in the Annex to the Belgian State Gazette.
 
 ##### Art. 17 - Election of the Board Members
 (1) Each candidate must be nominated by an Ordinary Member.
@@ -375,7 +373,7 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 (2) The Association will only reimburse the travel costs or accommodation costs  or other costs relating to each meeting under presentation of original  receipts and tickets. The original tickets/receipts for any event,  including the Council meetings, must be send to the PPEU office before  the last day of February of the year after the event. After that date,  no reimbursement may be requested.
 
 ##### Art. 23 – Audit
-(1) If, pursuant to the provisions applicable to it, the Association is so  required, auditing of the financial condition, annual accounts and their  regularity from the point of view of the Law on Not-for-profit  Associations and the status of transactions to be reflected in the annual accounts shall be entrusted to one or more auditors appointed by the Council from among the members of the Belgian Institute of Company  Auditors (Institut des Réviseurs d'Entreprises/Instituut der  bedrijfsrevisoren).
+(1) If, pursuant to the provisions applicable to it, the Association is so required, auditing of the financial condition, annual accounts and their regularity from the point of view of the Law on Not-for-profit Associations and the status of transactions to be reflected in the annual accounts shall be entrusted to one or more auditors appointed by the Council from among the members of the Luxembourgish Institute of Company Auditors (Institut des réviseurs d'entreprises (IRE)).
 
 (2) The Council shall determine the number of auditors and their remuneration. The auditors shall be appointed for a renewable term of three years. The Council may revoke their mandates at any time, but have to appoint new auditors at the same time. Any auditor appointed to replace an auditor who has resigned in the course of his term of office completes the  latter’s term.
 
@@ -393,7 +391,7 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 
 (2) Decisions regarding amendments to the Statutes can only be taken if there is an attendance quota of two-thirds of the members entitled to vote present or represented and shall be taken with a double majority of two-thirds of the votes cast by two-thirds of the Ordinary Members taking part in the voting, except for decisions on the Principles (Art. 4) and Objectives (Art. 5) where consent of all the Ordinary Council Members is necessary.
 
-(3) Any decision amending the Statutes shall be submitted to the Belgian Minister of Justice and published in the Annexes to the Belgian Official Gazette.
+(3) Any decision amending the Statutes shall be submitted to the Company Registrar (RCSL) and published according to the law.
 
 ##### Art. 26 – Change of the Pirate Manifesto
 (1) The Pirate Manifesto combines the identified common policies of the member parties in a document representing the common policies of the Association and is an integral part of these Statutes.
@@ -406,7 +404,7 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 
 (2) The  Association is not dissolved as a result of the death, dissolution or resignation of a member, provided the number of members is not less than  five Ordinary Members.
 
-(3) In the event that European legislation provides for a different legal status for political parties and the Council of the Association decides to adopt such a status, the financial and other assets of the Association (aisbl) shall be transferred to the new legal entity upon the cessation of the activities of the aisbl.
+(3) In the event that European legislation provides for a different legal status for political parties and the Council of the Association decides to adopt such a status, the financial and other assets of the Association shall be transferred to the new legal entity upon the cessation of the activities of the Association.
 
 (4) Except in the event of judicial dissolution and automatic dissolution due to the requirements of the law, the association may be prematurely  dissolved only by a decision of the Council acting in accordance with  Article 20 of the Law on Not-for-profit Associations.
 
@@ -419,27 +417,10 @@ If not enough candidates have reached 50% of the votes cast, a second round of v
 * b) the methods and procedures for the liquidation of the Association and
 * c) the destination to be given to the net assets of the Association. The net assets of the  Association will have to be allocated to a non-profit purpose. They may be divided among the member parties according to their financial contributions.
 
-(7) All such decisions have to be duly filed at the clerk’s office of the  competent Commercial Court and published in the Annexes of the Belgian  Official Gazette in line with the applicable legislation.
+(8) All such decisions have to be duly filed and published ​according to the law.
 
 ### Transitional Provisions
-##### Art. 28 – Entry into Force
-(1) When and if at least 5 European Pirate Parties who are eligible to become Ordinary Members have signed and ratified these Statutes the Members of the European Parlament representing the Swedish Pirate Party shall call for a founding Council meeting of the association, to be held in Brussels at which time these statutes shall enter into force.
-
-(2) The founding Council meeting shall in all respects be carried out as a regular council meeting with the following exceptions:
-* a) Any European Pirate Parties who are eligible to become Ordinary Members and have signed and ratified these Statutes represented by delegate(s) at the Founding Council shall be considered a founding member.
-* b) Number of Delegates and votes given to each founding member at the founding Council meeting shall be the same as for a regular council meeting in accordance with these statutes.
-* c) All functions related to the meeting normally carried out by the board shall be carried out by the Pirate Members of the European parliament.
-
-(3) Any European Pirate Party who are eligible to become Ordinary Members have signed and ratified these Statutes have to send notification of any of these acts: 
-* a) signing of the Statutes,
-* b) ratification of the Statutes or
-* c) electing or choosing in any other way a delegate or candidate for the Board of the Association. 
-
-(4) This shall be done by both of the following means: 
-* a)  by email to the Members of the European Parlament representing the Swedish Pirate Party
-* b) by sending a letter to the official seat of the Association according to these Statutes. 
-
-##### Art. 29 – Transitional Clause
+##### Art. 28 – Transitional Clause
 (1) Within 6 months from the day when the PPEU is recognised by the EU as a  Political Party at the EU level an extraordinary convention shall convene to revise all statutes and in particular to decide on new paragraphes regulating 
 * a) membership fee and 
 * b) voting allocation for the Council.
