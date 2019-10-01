@@ -56,7 +56,7 @@ agree to create an international non-profit association according to Belgian law
 
 (6) All decisions concerning choices and attitudes of PPEU member parties or political organizations in their own countries remain strictly under the sovereignty of national parties.
 
-(7) The Association may carry out all operations and conduct all activities (including real estate transactions), both in Belgium and abroad, which directly or indirectly increase or promote its objectives under the condition that these activities adhere to the principles of this  organisation stated in this article.
+(7) The Association may carry out all operations and conduct all activities (including real estate transactions), both in Luxembourg and abroad, which directly or indirectly increase or promote its objectives under the condition that these activities adhere to the principles of this  organisation stated in this article.
 The Association does not undertake industrial or commercial transactions and does not seek to procure a profit to its members.
 
 ##### Article 5 - Objectives
